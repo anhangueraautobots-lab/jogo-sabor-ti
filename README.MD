@@ -154,8 +154,7 @@ Exemplo de `data.json`:
 * Barra de vida
 * Animações
 * Interface gráfica melhor
-* Sistema de dificuldade
-* Suporte para mais músicas
+* Implementar personagens e cenários
 
 ---
 
