@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎵 FNF Rhythm Game (Python)
 
 Protótipo de jogo de ritmo inspirado em Friday Night Funkin', desenvolvido em **Python** utilizando a biblioteca **Pygame**.
